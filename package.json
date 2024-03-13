@@ -1,0 +1,23 @@
+{
+  "name": "mandytrowbridge260-date-time",
+  "version": "1.0.0",
+  "description": "A collection of utilities for working with dates and times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mandytrowbridge260/mandytrowbridge260-date-time"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+	"moment-timezone": "^0.5.36"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandytrowbridge260/mandytrowbridge260-date-time/issues"
+  },
+  "homepage": "https://github.com/mandytrowbridge260/mandytrowbridge260-date-time#readme"
+}
